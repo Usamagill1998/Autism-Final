@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "Autism",
+    "slug": "Autism",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/m.usama2.png",
+    "splash": {
+      "image": "./assets/m.usama2.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier":"com.AutismTest.AutismTest",
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": ""
+  }
+}
